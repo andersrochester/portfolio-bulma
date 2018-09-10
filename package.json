@@ -1,0 +1,28 @@
+{
+  "name": "gulp-bulma",
+  "version": "1.0.0",
+  "description": "Gulp with Bulma Sass and BrowserSync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dzinemon",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.6.1",
+    "bulma-start": "0.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersrochester/portfolio-bulma.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andersrochester/portfolio-bulma/issues"
+  },
+  "homepage": "https://github.com/andersrochester/portfolio-bulma#readme"
+}
