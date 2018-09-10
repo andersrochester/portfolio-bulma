@@ -27,7 +27,3 @@ gulp
 ```
 
 ---
-
-## Screencapture
-
-![Gulp Bulma](/src/assets/screen.png?raw=true "Screencapture of Gulp Bulma  Template")
