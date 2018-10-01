@@ -1,7 +1,7 @@
 # Gulp Bulma
 
-* sass
-* browsersync
+sass, browsersync
+
 
 
 ```
